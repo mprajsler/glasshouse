@@ -1,5 +1,3 @@
-git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-k2ILrhSE' (errno=Operation not permitted)
-git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-LjU56jFF' (errno=Operation not permitted)
 {
   "common.am": {
     "text": "dop.",
