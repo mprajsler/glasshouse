@@ -1,5 +1,3 @@
-git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-hSuIoIyN' (errno=Operation not permitted)
-git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-AprZNfWn' (errno=Operation not permitted)
 # Home
 
 > [!NOTE]
