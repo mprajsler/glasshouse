@@ -1,3 +1,5 @@
+git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-1WYCLM2f' (errno=Operation not permitted)
+git: error: couldn't create cache file '/var/folders/zz/zyxvpxvq6csfxvn_n00001ym0000gn/T/xcrun_db-yfipD5ZH' (errno=Operation not permitted)
 # What the dashboard changes on the TV
 
 ## Audio capabilities
@@ -87,7 +89,7 @@ Glasshouse Home leaves empty rows out and centres the remaining rows below the c
 
 Glasshouse Home's text and accent colours are saved in `/var/lib/tvweb/home.json` and applied to its view within a few seconds. **Use the default colours** clears the choice.
 
-Glasshouse Home's **Last watched**, **App count** and **CEC addresses** switches are saved in `/var/lib/tvweb/home.json`, on unless switched off. Both dashboards edit the same choices, which reach an open Home view through its heartbeat. The source stays hidden until the saved layout loads.
+Glasshouse Home's **Last watched**, **App count**, **App names** and **CEC addresses** switches are saved in `/var/lib/tvweb/home.json`, on unless switched off. Both dashboards edit the same choices, which reach an open Home view through its heartbeat. The source stays hidden until the saved layout loads.
 
 While Glasshouse Home and its picture details (off by default) are on and the TV is out of standby, a read-only `videooutput/getStatus` subscription records the last video each app plays for the plate. It starts before the first Home visit and stops when either is switched off or the TV goes into standby. Recorded videos stay in memory until the server restarts. HDMI signal and picture-mode reads change no TV settings.
 
